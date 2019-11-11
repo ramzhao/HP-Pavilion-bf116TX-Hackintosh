@@ -1,0 +1,13 @@
+## HP-Pavilion-bf116TX-Hackintosh
+- CLOVER 5098
+- 仅测试了macOS Catalina 10.15.1
+- 核显正常，频率正常，无花屏，亮度正常
+- 已屏蔽独显
+- CPU变频正常，温度感人，已开启HWP(SST)
+- 内置无线网卡无解，更换为BCM94352Z,wifi和蓝牙均正常
+- 硬盘正常，已开启TRIM
+- 原生快捷键完美(注入ssdt)
+- 睡眠正常
+- 电池正常(电池损耗比windows快)
+- 开关机正常
+- 音频正常
